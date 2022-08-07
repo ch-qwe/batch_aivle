@@ -1,6 +1,11 @@
 # batch_aivle
 aivle_school 시작 시 필요한 프로그램들을 한번에 실행시키는 배치 프로그램 입니다.
 
+# 사용법
+1. 프로젝트 경로에 config.json 파일을 생성 후, 값을 입력합니다. //sample_config.json 참고
+2. build.py 실행 시켜 run.cmd 실행 파일을 생성합니다.
+3. run.cmd 파일을 실행시켜 배치 프로그램을 실행시킵니다.
+
 # config.json 필드 설명
   execute_teams : teams 실행 여부 // 사용시 "True" . 사용X "True" 가 아닌 문자열, 공백 가능<br/>
   teams_path : teams 프로그램 실행파일의 절대 경로 입니다<br/>
