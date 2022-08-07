@@ -1,0 +1,22 @@
+{
+  "execute_teams": "True",
+  "teams_path": "C:/Users/mincheolhonmg/Desktop",
+  "teams_file_name": "Teams_windows_x64.exe",
+  "execute_jupyter": "True",
+  "jupyter_path": "",
+  "jpuyter_file_name": "C:/Users/mincheolhonmg/anaconda3/python.exe C:/Users/mincheolhonmg/anaconda3/cwp.py C:/Users/mincheolhonmg/anaconda3 C:/Users/mincheolhonmg/anaconda3/python.exe C:/Users/mincheolhonmg/anaconda3/Scripts/jupyter-notebook-script.py %USERPROFILE%/",
+  "execute_vs": "True",
+  "vs_path": "C:/Users/mincheolhonmg/AppData/Local/Programs/Microsoft VS Code",
+  "vs_file_name": "Code.exe",
+  "execute_aivle": "True",
+  "id": "",
+  "pw": "",
+  "chrome_path": "C:/Program Files (x86)/Google/Chrome/Application",
+  "chromedriver_path": "C:/Users/mincheolhonmg/Desktop/chromedriver/chromedriver.exe",
+  "run_cmd": "chrome.exe --remote-debugging-port=9222 --user-data-dir=C:/Chrome_temp",
+  "url_aivle": "https://auth.edu.kt.co.kr/login",
+  "id_path": "#userId",
+  "pw_path": "#userPass",
+  "btn_path": "#btn_ok",
+  "otp_path": "#certNum"
+}
