@@ -1,5 +1,6 @@
 # batch_aivle
 aivle_school 시작 시 필요한 프로그램들을 한번에 실행시키는 배치 프로그램 입니다.
+시연 영상 : https://youtu.be/tDmevfdlCIk
 
 # 사용법
 1. 프로젝트 경로에 config.json 파일을 생성 후, 값을 입력합니다. //sample_config.json 참고
