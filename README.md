@@ -39,4 +39,4 @@ aivle_school 시작 시 필요한 프로그램들을 한번에 실행시키는 �
   id_path : aivle_edu 아이디 입력창 css_selector 경로 입니다.<br/>
   pw_path : aivle_edu 비밀번호 입력창 css_selector 경로 입니다.<br/>
   btn_path : aivle_edu 확인 버튼 css_selector 경로 입니다.<br/>
-  otp_path : 인증번호 alet 창의 확인 버튼 css_selector 경로 입니다.<br/>
+  otp_path : aivle_edu 입력창 css_selector 경로 입니다.<br/>
