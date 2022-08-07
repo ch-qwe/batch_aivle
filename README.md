@@ -1,6 +1,15 @@
 # batch_aivle
 aivle_school 시작 시 필요한 프로그램들을 한번에 실행시키는 배치 프로그램 입니다. <br/>
-시연 영상 : https://youtu.be/tDmevfdlCIk
+
+- program list : <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat&logo=Microsoft Teams&logoColor=white"/></span>
+<span><img width=64 src="https://user-images.githubusercontent.com/45938634/183304174-0fcbda62-f001-4871-b6dc-d34bb4ddc7b1.PNG"/></span>
+
+- skills : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/></span>
+
+- 시연 영상 : https://youtu.be/tDmevfdlCIk
 
 # 사용법
 1. 프로젝트 경로에 config.json 파일을 생성 후, 값을 입력합니다. //sample_config.json 참고
